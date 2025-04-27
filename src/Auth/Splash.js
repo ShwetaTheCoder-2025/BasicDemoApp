@@ -21,7 +21,7 @@ function Splash({ navigation }) {
     <View style={styles.container}>
       <StatusBar backgroundColor={Colors.WHITE} barStyle="dark-content" />
       <Animated.Text style={[styles.text, { opacity }]}>
-        My Animated App
+        My Demo App
       </Animated.Text>
     </View>
   );
